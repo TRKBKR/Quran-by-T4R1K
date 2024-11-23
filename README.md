@@ -34,4 +34,3 @@ Feel Free to clone this code and change the audio in `assets/audio/` to your pre
  `bash apksigner sign --ks YOUR-KEY.keystore Quran-build.apk`
 
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tarikbak99B)
